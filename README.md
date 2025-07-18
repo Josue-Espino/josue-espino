@@ -28,27 +28,27 @@
 - **CompTIA Network+** (In progress)
 
 ### 📂 Featured Projects
-- 🔹 **GitLab Project Setup Guide**  
+ 🔹 **GitLab Project Setup Guide**  
   Secured a Rocky 8 VM, deployed a Docker container running a SQL Server database, and built a centralized log‑filtering pipeline.  
 
 
-- 🔹 **Active Directory Homelab**  
+ 🔹 **Active Directory Homelab**  
   Built a Windows Server AD DS domain, created and applied GPOs to lock down Control Panel, and automated user/computer provisioning.  
   
 
-- 🔹 **Pi‑hole DNS & Ad‑Blocker**  
+ 🔹 **Pi‑hole DNS & Ad‑Blocker**  
   Deployed Pi‑hole on a Raspberry Pi to filter network DNS queries and block ads at the DNS level for all clients.  
  
 
-- 🔹 **Dockerized SQL Deployments**  
+ 🔹 **Dockerized SQL Deployments**  
   Containerized MySQL and SQL Server instances with automated backup/restore scripts, and orchestrated via Docker Compose.  
 
 
-- 🔹 **Windows File Server & GPO‑Mapped Drives**  
+ 🔹 **Windows File Server & GPO‑Mapped Drives**  
   Configured File Server Resource Manager quotas/screening, and used GPOs to auto‑map network shares for user groups.  
 
 
-- 🔹 **Freshdesk Helpdesk Simulation**  
+ 🔹 **Freshdesk Helpdesk Simulation**  
   Simulated end‑to‑end ticket triage, SLA rules and automated notifications in a Freshdesk sandbox environment.  
 
 
