@@ -6,7 +6,7 @@
 
 - **Operating Systems & Servers:**  
   - Windows Server (Active Directory, Group Policy, File Server Resource Manager)  
-  - Linux (Rocky 8 VM, Raspberry Pi)
+  - Linux (Rocky 10 VM, Raspberry Pi)
 - **Containerization & Virtualization:**  
   - Docker, Docker Compose, Portainer  
   - VirtualBox, VMware
