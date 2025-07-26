@@ -7,12 +7,14 @@
 - **Operating Systems & Servers:**  
   - Windows Server (Active Directory, Group Policy, File Server Resource Manager)  
   - Linux (Rocky 10 VM, Raspberry Pi)
+  - **BIND9** DNS Server  
+  - **LAMP** (Apache, MySQL, PHP)
 - **Containerization & Virtualization:**  
   - Docker, Docker Compose, Portainer  
   - VirtualBox, VMware
 - **Networking & Security:**  
-  - DNS (Pi‑hole), DHCP, TCP/IP fundamentals, network sharing  
-  - Basic server hardening & log filtering
+  - DNS (Pi‑hole & BIND9), DHCP, TCP/IP fundamentals, network sharing  
+  - Server hardening & centralized log filtering
 - **Database Management:**  
   - MySQL, SQL Server (DBeaver)
 - **Scripting & Automation:**  
@@ -28,6 +30,15 @@
 - **CompTIA Network+** (In progress)
 
 ### 📂 Featured Projects
+
+🔹 **LAMP Stack Homelab**  
+  Built a full LAMP stack on Ubuntu 22.04: Apache web server with virtual hosts, MySQL database with secure users, and PHP application deployment. Automated backup/restore scripts and tested dynamic content.
+
+  
+🔹 **BIND DNS Server on Ubuntu**  
+  Spun up an Ubuntu 22.04 VM, installed and configured BIND9 for homelab.local and server.homelab.local zones (forward/reverse), tuned caching, and validated with `dig` and system logs. Highlights careful zone management and self‑hosted services.
+
+  
  🔹 **GitLab Project Setup Guide**  
   Secured a Rocky 8 VM, deployed a Docker container running a SQL Server database, and built a centralized log‑filtering pipeline.  
 
